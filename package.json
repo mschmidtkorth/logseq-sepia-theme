@@ -1,0 +1,17 @@
+{
+    "name": "Sepia WIP Theme",
+    "author": "mschmidtkorth",
+    "version": "0.0.1",
+    "description": "A sepia version of the default theme.",
+    "logseq": {
+      "themes": [
+        {
+          "name": "Sepia WIP Theme",
+          "url": "./sepia.css",
+          "description": "A sepia version of the default theme."
+        }
+      ],
+      "id": "msk_theme-sepia",
+      "icon": ""
+    }
+  }
