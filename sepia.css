@@ -193,6 +193,13 @@ html[data-theme='sepia'] {
 	--color-level-5: #9e9385;
 }
 
+/* Custom overrides due to hard-coded colors */
+/* Buttons */
+.bg-indigo-600,
+.bg-indigo-700 {
+	background-color: var(--ls-active-secondary-color) !important;
+}
+
 /* region Reset top elements */
 html {
 	font-family: var(--ls-font-family), Inter, sans-serif, system-ui,
