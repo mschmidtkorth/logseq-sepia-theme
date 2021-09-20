@@ -87,14 +87,14 @@ html[data-theme='dark'] {
 .white-theme,
 html[data-theme='light'] {
 	--ls-primary-background-color: #ffffff;
-	--ls-secondary-background-color: #f7f7f7;
+	--ls-secondary-background-color: #f8f6f3;
 	--ls-tertiary-background-color: #f1eee8;
 	--ls-quaternary-background-color: #e8e5de;
 	--ls-table-tr-even-background-color: #f7f7f7;
 	--ls-active-primary-color: rgb(4, 85, 145);
 	--ls-active-secondary-color: #003761;
-	--ls-block-properties-background-color: #f7f7f7;
-	--ls-page-properties-background-color: #f7f7f7;
+	--ls-block-properties-background-color: #f5f3ee;
+	--ls-page-properties-background-color: #f5f3ee;
 	--ls-block-ref-link-text-color: #d8e1e8;
 	--ls-search-background-color: var(--ls-primary-background-color);
 	--ls-border-color: #ccc;
